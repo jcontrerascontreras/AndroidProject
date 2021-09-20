@@ -2,17 +2,15 @@
 
     <PreferenceCategory app:title="@string/messages_header">
 
-        <EditTextPreference
+        <CheckBoxPreference
             app:key="signature"
-            app:title="@string/signature_title"
-            app:useSimpleSummaryProvider="true" />
+            app:title="@string/field1_title"
+            />
 
-        <ListPreference
+        <CheckBoxPreference
             app:defaultValue="reply"
-            app:entries="@array/reply_entries"
-            app:entryValues="@array/reply_values"
             app:key="reply"
-            app:title="@string/reply_title"
+            app:title="@string/field1_title"
             app:useSimpleSummaryProvider="true" />
 
     </PreferenceCategory>

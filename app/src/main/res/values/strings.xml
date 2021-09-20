@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">places</string>
+    <string name="field1_title">Notificaciones</string>
+    <string name="field2_title">Sonido de notificaciones</string>
+    <string name="reply_title">places</string>
+    <string name="messages_header">Notificaciones</string>
+    <string name="sync_header">Something</string>
+    <string name="sync_title">Lorem Ipsum</string>
+    <string name="attachment_summary_off">Off</string>
+    <string name="attachment_summary_on">On</string>
+    <string name="attachment_title">Lorem Ipsum</string>
 </resources>
